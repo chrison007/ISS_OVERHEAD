@@ -16,10 +16,10 @@ This Python script notifies you when the International Space Station (ISS) is pa
      pip install -r requirements.txt
 # 3. Update the script with your email credentials and geographical coordinates:
      MY_EMAIL = "your_email@gmail.com"
-PASSWORD = "your_email_password"
+     PASSWORD = "your_email_password"
 
-MY_LAT = 51.507351  # Your latitude
-MY_LONG = -0.127758  # Your longitude
+     MY_LAT = 51.507351  # Your latitude
+     MY_LONG = -0.127758  # Your longitude
 
 # Acknowledgments
 Open Notify API
